@@ -1,4 +1,4 @@
-package io.lfrgs.custom.resourcebundle;
+package br.com.lfrgs.custom.resourcebundle;
 
 import java.util.Locale;
 import java.util.ResourceBundle;
@@ -12,7 +12,7 @@ import com.liferay.portal.kernel.util.ClassResourceBundleLoader;
 import com.liferay.portal.kernel.util.ResourceBundleLoader;
 
 /**
- * @author Jordana Morais
+ * @author Jordana Morais, Rafael Oliveira
  */
 @Component(
 		immediate = true, 
